@@ -2,26 +2,34 @@
 
 # Alexander · Prompt/Context Engineer & AI Automation
 
-**Ingeniero prompt/contexto y desarrollador de bots** — RAG, integraciones LLM, automatización.
+**Ingeniero prompt/contexto y desarrollador de bots** — RAG, LLM, automation.
 
 ---
 
 ## Competencias
 
-RAG · APIs LLM · Bots Telegram · n8n · Python · FastAPI · MySQL
+RAG · LLM APIs · Telegram bots · n8n · Python · FastAPI · MySQL
 
 ---
 
 ## Proyectos
 
 | Proyecto | Valor de negocio |
-|----------|------------------|
-| [RAG Documentation Assistant](https://github.com/alexanderomobile/rag-documentation-assistant) | Respuestas rápidas, menos soporte |
-| [PartioBot](https://github.com/alexanderomobile/partio-bot) | Cierre automático de gastos grupales |
-| [P2P Bybit Optimum](https://github.com/alexanderomobile/p2p-bybit-optimum) | Mejores ofertas P2P, suscripción |
-| [Optimum Real Estate](https://github.com/alexanderomobile/optimum-real-estate-bot) | Agentes multilingües, sync web |
-| [MuzloProm AI Clips](https://github.com/alexanderomobile/muzloprom-ai-clips) | Contenido social sin editor |
-| [Portfolio](https://github.com/alexanderomobile/portfolio) | Case studies RU / EN / ES |
+|--------|-------------------|
+| [RAG Documentation Assistant](https://github.com/alexanderomobile/rag-documentation-assistant/blob/main/README.es.md) | Reduce tiempo de búsqueda, alivia soporte y minimiza respuestas sin fuente verificable. |
+| [PartioBot](https://github.com/alexanderomobile/partio-bot/blob/main/README.es.md) | Ahorra tiempo al cerrar cuentas de grupo; elimina hojas de cálculo en el chat. |
+| [P2P Bybit Optimum Bot](https://github.com/alexanderomobile/p2p-bybit-optimum/blob/main/README.es.md) | Automatiza monitoreo de tipos para traders; monetización por suscripción. |
+| [Optimum Real Estate Bot](https://github.com/alexanderomobile/optimum-real-estate-bot/blob/main/README.es.md) | Acelera ventas con clientes internacionales; base única y publicación en 13 idiomas. |
+| [MuzloProm AI Clips](https://github.com/alexanderomobile/muzloprom-ai-clips/blob/main/README.es.md) | Escala marketing de contenido sin editor; UGC rápido para redes sociales. |
+| [Portfolio](https://github.com/alexanderomobile/portfolio/blob/main/README.es.md) | Case studies RU / EN / ES |
+
+---
+
+## Experiencia RAG
+
+Ciclo completo: vector store → ETL → delivery → RAGAS → optimization.
+
+[Case studies](https://github.com/alexanderomobile/portfolio/tree/main/case-studies/es)
 
 ---
 
@@ -29,7 +37,7 @@ RAG · APIs LLM · Bots Telegram · n8n · Python · FastAPI · MySQL
 
 - **GitHub:** [@alexanderomobile](https://github.com/alexanderomobile)
 - **Telegram:** [@alexandero_spb](https://t.me/alexandero_spb)
-- **Email:** alexanderomobile@gmail.com
+- **Email:** alexandero.mobile@gmail.com
 
 ---
 

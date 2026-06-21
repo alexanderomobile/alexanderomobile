@@ -2,26 +2,34 @@
 
 # Александр · Prompt/Context Engineer & AI Automation
 
-**Промпт/контекст-инженер и разработчик ботов** — RAG, LLM-интеграции, автоматизация.
+**Промпт/контекст-инженер и разработчик ботов** — RAG, LLM, automation.
 
 ---
 
 ## Компетенции
 
-RAG · LLM API · Telegram bots · n8n · Python · FastAPI · MySQL
+RAG · LLM APIs · Telegram bots · n8n · Python · FastAPI · MySQL
 
 ---
 
-## Проекты
+## Избранные проекты
 
 | Проект | Польза для бизнеса |
 |--------|-------------------|
-| [RAG Documentation Assistant](https://github.com/alexanderomobile/rag-documentation-assistant) | Быстрые ответы по документации, меньше нагрузки на поддержку |
-| [PartioBot](https://github.com/alexanderomobile/partio-bot) | Автоматический расчёт долгов в группах |
-| [P2P Bybit Optimum](https://github.com/alexanderomobile/p2p-bybit-optimum) | Поиск выгодных P2P-сделок, подписка |
-| [Optimum Real Estate](https://github.com/alexanderomobile/optimum-real-estate-bot) | Агенты работают на любом языке, sync с сайтом |
-| [MuzloProm AI Clips](https://github.com/alexanderomobile/muzloprom-ai-clips) | Контент для соцсетей без монтажа |
-| [Portfolio](https://github.com/alexanderomobile/portfolio) | Case studies RU / EN / ES |
+| [RAG Documentation Assistant](https://github.com/alexanderomobile/rag-documentation-assistant/blob/main/README.md) | Сокращает время поиска в документации, снижает нагрузку на поддержку, уменьшает риск ошибок из «памяти» сотрудников. |
+| [PartioBot](https://github.com/alexanderomobile/partio-bot/blob/main/README.md) | Экономит время на расчётах «кто кому должен» после поездок и мероприятий, убирает таблицы в чатах. |
+| [P2P Bybit Optimum Bot](https://github.com/alexanderomobile/p2p-bybit-optimum/blob/main/README.md) | Автоматизирует мониторинг курса для трейдеров; монетизация через подписку. |
+| [Optimum Real Estate Bot](https://github.com/alexanderomobile/optimum-real-estate-bot/blob/main/README.md) | Ускоряет работу агентов с иностранными клиентами; единая база и публикация на 13 языках. |
+| [MuzloProm AI Clips](https://github.com/alexanderomobile/muzloprom-ai-clips/blob/main/README.md) | Масштабирует контент-маркeting без монтажёра; быстрый UGC для соцсетей. |
+| [Portfolio](https://github.com/alexanderomobile/portfolio/blob/main/README.md) | Case studies RU / EN / ES |
+
+---
+
+## Опыт RAG-проектов
+
+Полный цикл: vector store → ETL → delivery → RAGAS → optimization.
+
+[Case studies](https://github.com/alexanderomobile/portfolio/tree/main/case-studies/ru)
 
 ---
 
@@ -29,7 +37,7 @@ RAG · LLM API · Telegram bots · n8n · Python · FastAPI · MySQL
 
 - **GitHub:** [@alexanderomobile](https://github.com/alexanderomobile)
 - **Telegram:** [@alexandero_spb](https://t.me/alexandero_spb)
-- **Email:** alexanderomobile@gmail.com
+- **Email:** alexandero.mobile@gmail.com
 
 ---
 
