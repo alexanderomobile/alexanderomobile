@@ -45,7 +45,7 @@
 ## Контакты
 
 - **GitHub:** [@alexanderomobile](https://github.com/alexanderomobile)
-- **Telegram:** [@alexanderomobile](https://t.me/alexandero_spb)
+- **Telegram:** [@alexandero_spb](https://t.me/alexandero_spb)
 - **Email:** alexanderomobile@gmail.com
 
 ---
