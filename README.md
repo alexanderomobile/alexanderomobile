@@ -1,6 +1,6 @@
-# Александр · Prompt Engineer & AI Automation
+# Александр · Prompt/Context Engineer & AI Automation
 
-**Промпт-инженер и разработчик Telegram-ботов** с фокусом на RAG, LLM-интеграции и автоматизацию бизнес-процессов.
+**Промпт/контекст-инженер и разработчик ботов** с фокусом на RAG, LLM-интеграции и автоматизацию бизнес-процессов.
 
 Проектирую цепочки «данные → контекст → ответ», упаковываю решения в понятные интерфейсы (боты, API, no-code) и довожу задачи до рабочего продукта.
 
@@ -45,8 +45,8 @@
 ## Контакты
 
 - **GitHub:** [@alexanderomobile](https://github.com/alexanderomobile)
-- **Telegram:** [@alexanderomobile](https://t.me/alexanderomobile)
-- **Email:** alexanderomobile@example.com
+- **Telegram:** [@alexanderomobile](https://t.me/alexandero_spb)
+- **Email:** alexanderomobile@gmail.com
 
 ---
 
