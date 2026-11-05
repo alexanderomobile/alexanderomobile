@@ -21,6 +21,8 @@ RAG · LLM APIs · Telegram bots · n8n · Python · FastAPI · MySQL
 | [P2P Bybit Optimum Bot](https://github.com/alexanderomobile/p2p-bybit-optimum/blob/main/README.md) | Автоматизирует мониторинг курса для трейдеров; монетизация через подписку. |
 | [Optimum Real Estate Bot](https://github.com/alexanderomobile/optimum-real-estate-bot/blob/main/README.md) | Ускоряет работу агентов с иностранными клиентами; единая база и публикация на 13 языках. |
 | [MuzloProm AI Clips](https://github.com/alexanderomobile/muzloprom-ai-clips/blob/main/README.md) | Масштабирует контент-маркeting без монтажёра; быстрый UGC для соцсетей. |
+| [AI Review Assistant «Эхо»](https://github.com/alexanderomobile/ai-review-assistant/blob/main/README.md) | Сокращает обработку отзыва с 6 до 1 минуты, держит единый тон на всех площадках и не даёт потерять критический отзыв. |
+| [RAG Assistant with Logs](https://github.com/alexanderomobile/rag-assistant-logs/blob/main/README.md) | Показывает, что спрашивают потенциальные клиенты, чего не хватает в материалах и как быстро идёт ответ; повторные вопросы — мгновенно из кеша. Тестовые данные 5 ноября 2026: медиана ответа 1,2 с, 7 из 26 ответов из кеша, 0 ошибок. |
 | [Portfolio](https://github.com/alexanderomobile/portfolio/blob/main/README.md) | Case studies RU / EN / ES |
 
 ---
@@ -36,7 +38,7 @@ RAG · LLM APIs · Telegram bots · n8n · Python · FastAPI · MySQL
 ## Контакты
 
 - **GitHub:** [@alexanderomobile](https://github.com/alexanderomobile)
-- **Telegram:** [@alexandero_spb](https://t.me/alexandero_spb)
+- **Telegram:** [@alexandero_optimum](https://t.me/alexandero_optimum)
 - **Email:** alexandero.mobile@gmail.com
 
 ---
