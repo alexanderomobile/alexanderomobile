@@ -23,6 +23,7 @@ RAG · LLM APIs · Telegram bots · n8n · Python · FastAPI · MySQL
 | [MuzloProm AI Clips](https://github.com/alexanderomobile/muzloprom-ai-clips/blob/main/README.es.md) | Escala marketing de contenido sin editor; UGC rápido para redes sociales. |
 | [AI Review Assistant «Echo»](https://github.com/alexanderomobile/ai-review-assistant/blob/main/README.md) | Reduce la gestión de una reseña de 6 a 1 minuto, mantiene un tono único y no deja escapar reseñas críticas. |
 | [RAG Assistant with Logs](https://github.com/alexanderomobile/rag-assistant-logs/blob/main/README.md) | Muestra qué preguntan los clientes potenciales, qué falta en los materiales y la rapidez de respuesta; las preguntas repetidas se responden al instante desde la caché. Datos de prueba del 5 nov 2026: mediana de respuesta 1,2 s, 7 de 26 respuestas desde la caché, 0 errores. |
+| [Brand Voice LoRA](https://github.com/alexanderomobile/brand-voice-lora/blob/main/README.md) | El propio modelo mantiene el estilo de la marca en lugar de un prompt largo: la petición es la mitad de larga y los mensajes de clientes no salen de casa. Datos de prueba del 7 nov 2026: 52 de 60 respuestas con el estilo frente a 0 con el prompt largo; los hechos siguen viniendo de la base de conocimiento. |
 | [Portfolio](https://github.com/alexanderomobile/portfolio/blob/main/README.es.md) | Case studies RU / EN / ES |
 
 ---
