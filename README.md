@@ -24,6 +24,7 @@ RAG · LLM APIs · Telegram bots · n8n · Python · FastAPI · MySQL
 | [AI Review Assistant «Эхо»](https://github.com/alexanderomobile/ai-review-assistant/blob/main/README.md) | Сокращает обработку отзыва с 6 до 1 минуты, держит единый тон на всех площадках и не даёт потерять критический отзыв. |
 | [RAG Assistant with Logs](https://github.com/alexanderomobile/rag-assistant-logs/blob/main/README.md) | Показывает, что спрашивают потенциальные клиенты, чего не хватает в материалах и как быстро идёт ответ; повторные вопросы — мгновенно из кеша. Тестовые данные 5 ноября 2026: медиана ответа 1,2 с, 7 из 26 ответов из кеша, 0 ошибок. |
 | [Brand Voice LoRA](https://github.com/alexanderomobile/brand-voice-lora/blob/main/README.md) | Стиль бренда держит сама модель, а не длинный промпт: запрос вдвое короче, переписка с клиентами не уходит в облако. Тестовые данные 7 ноября 2026: в стиле 52 из 60 ответов против 0 у модели с длинным промптом; факты по-прежнему даёт база знаний. |
+| [FAQ Assistant](https://github.com/alexanderomobile/faq-assistant/blob/main/README.md) | Посетитель получает ответ про услуги, кейсы и порядок работы прямо на сайте, в том числе на короткие уточнения, без выдуманных цен и обещаний; если ответа в материалах нет, помощник так и говорит и даёт контакты. Тестовые данные 8 ноября 2026: 45 верных ответов из 59 против 27 у учебного кода, выдумка в 6 ответах против 18. |
 | [Portfolio](https://github.com/alexanderomobile/portfolio/blob/main/README.md) | Case studies RU / EN / ES |
 
 ---
